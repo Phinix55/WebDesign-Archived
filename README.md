@@ -12,6 +12,8 @@ This repository showcases four small, creative landing page designs crafted to d
   - Dynamic visuals with a tech-inspired theme.  
   - Bold typography and vibrant colors to attract gamers.  
   - Feature-focused sections for specifications, games, and accessories.
+    
+![Pragati App](https://drive.google.com/uc?export=view&id=1LvUgOyeWlQ5c9voSB4WWmjQTK1AN4iwn)
 
 
 ---
@@ -23,7 +25,7 @@ This repository showcases four small, creative landing page designs crafted to d
   - Sections for features, customer reviews, and pricing.  
   - A minimalist color scheme for a professional look.
 
-![Logitech Mouse Landing Page](https://via.placeholder.com/800x400.png?text=Logitech+Mouse+Landing+Page)
+![Pragati App](https://drive.google.com/uc?export=view&id=1La68KJ_i9WGP_yIYFj2vIeIUEmKbkmYw)
 
 ---
 
@@ -34,7 +36,7 @@ This repository showcases four small, creative landing page designs crafted to d
   - Sections for featured recipes, chef tips, and user ratings.  
   - Warm, inviting color palette for an engaging experience.
 
-![Food Recipe Website Landing Page](https://via.placeholder.com/800x400.png?text=Food+Recipe+Website+Landing+Page)
+![Pragati App](https://drive.google.com/uc?export=view&id=19UNKCLva8RbRqZ4McJfhLMEOE3jwmEwX)
 
 ---
 
@@ -45,7 +47,7 @@ This repository showcases four small, creative landing page designs crafted to d
   - Focus on usability and accessibility.  
   - Minimalist design for a professional appearance.
 
-![Registration Form Landing Page](https://via.placeholder.com/800x400.png?text=Registration+Form+Landing+Page)
+![Pragati App](https://drive.google.com/uc?export=view&id=1DwVjrTV0OOVngjmNoLoWLLmoqfcYvd3p)
 
 ---
 
@@ -71,9 +73,8 @@ This repository serves as an archive of my web design concepts, showcasing my ab
 ## 📢 **Get in Touch**
 If you have feedback or would like to collaborate, feel free to reach out!
 
-👉 **[My Portfolio Website](#)**  
-👉 **[LinkedIn](#)**  
-👉 **[Behance](#)**  
+👉 **[My Portfolio Website](https://pratikpandey.framer.website/)**  
+👉 **[LinkedIn](https://www.linkedin.com/in/pratik-pandey23/)**  
 
 ---
 
